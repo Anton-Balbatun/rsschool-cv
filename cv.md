@@ -12,3 +12,18 @@ In near future i am going to improve my programming and English skills and go on
 * Have basic knowledge of JavaScript,Html,Css.
 * Can create different UML diagrams.
 * Good command of the following programs: MSOffice, AllFusion, Enterprise Architect.
+##  Code examples:
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+## Experience:
+Work in StealMonkeys on QA position about four month,also had practice in SoverSystem on the 1-st lvl support position.
+Do some projects in A1QA when was on courses.
+## Education 
+I graduated from Bsuir, finished html and css courses in codecademy, take QA courses in A1QA
+## English skills:
+Intermediate lvl(B2).Have strong gramma base and medium speaking skills. Had some practice in Cambridge 5 years ago.
