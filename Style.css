@@ -1,0 +1,29 @@
+.image{
+    width: 200px;
+    height: 200px;
+}
+
+.wrapper {
+    width: 1024px;
+    margin: 0 auto;
+
+
+}
+
+.nav-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 25px;
+}
+
+.with-indent {
+    text-indent: 20px;
+}
+
+a{ 
+    color: deeppink;
+}
+ 
